@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roon OS 本機管理頁 繁體中文化
 // @namespace    https://github.com/crytropy/Roon-zh-tw
-// @version      1.0.1
+// @version      1.0.2
 // @description  把 Roon OS（ROCK / Nucleus）本機管理網頁翻成繁體中文（台灣用語）
 // @homepageURL  https://github.com/crytropy/Roon-zh-tw
 // @supportURL   https://github.com/crytropy/Roon-zh-tw/issues
@@ -29,7 +29,7 @@
     'Network & Access': '網路與存取',
     'Settings': '設定',
     'Sections': '區段',
-    'Serial #': '序號',
+    'Serial #': '序號 ', // 後面緊接序號數字，留一格空白
     'Power': '電源',
     'Loading': '載入中',
     'Loading…': '載入中…',
