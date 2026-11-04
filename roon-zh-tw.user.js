@@ -1,8 +1,12 @@
 // ==UserScript==
 // @name         Roon OS 本機管理頁 繁體中文化
-// @namespace    https://github.com/roon-zh-tw
-// @version      1.0.0
+// @namespace    https://github.com/crytropy/Roon-zh-tw
+// @version      1.0.1
 // @description  把 Roon OS（ROCK / Nucleus）本機管理網頁翻成繁體中文（台灣用語）
+// @homepageURL  https://github.com/crytropy/Roon-zh-tw
+// @supportURL   https://github.com/crytropy/Roon-zh-tw/issues
+// @updateURL    https://raw.githubusercontent.com/crytropy/Roon-zh-tw/main/roon-zh-tw.user.js
+// @downloadURL  https://raw.githubusercontent.com/crytropy/Roon-zh-tw/main/roon-zh-tw.user.js
 // @match        http://192.168.3.10/*
 // @run-at       document-start
 // @grant        none
